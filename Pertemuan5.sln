@@ -5,6 +5,8 @@ VisualStudioVersion = 17.5.33502.453
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Pertemuan5", "Pertemuan5\Pertemuan5.vcxproj", "{F78AA9C5-E2A0-4B6E-AAB9-5A4DECBA2D4A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Latihan2", "Latihan2\Latihan2.vcxproj", "{07E4616A-1363-46AD-8BBA-0DDDE7DF04AA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{F78AA9C5-E2A0-4B6E-AAB9-5A4DECBA2D4A}.Release|x64.Build.0 = Release|x64
 		{F78AA9C5-E2A0-4B6E-AAB9-5A4DECBA2D4A}.Release|x86.ActiveCfg = Release|Win32
 		{F78AA9C5-E2A0-4B6E-AAB9-5A4DECBA2D4A}.Release|x86.Build.0 = Release|Win32
+		{07E4616A-1363-46AD-8BBA-0DDDE7DF04AA}.Debug|x64.ActiveCfg = Debug|x64
+		{07E4616A-1363-46AD-8BBA-0DDDE7DF04AA}.Debug|x64.Build.0 = Debug|x64
+		{07E4616A-1363-46AD-8BBA-0DDDE7DF04AA}.Debug|x86.ActiveCfg = Debug|Win32
+		{07E4616A-1363-46AD-8BBA-0DDDE7DF04AA}.Debug|x86.Build.0 = Debug|Win32
+		{07E4616A-1363-46AD-8BBA-0DDDE7DF04AA}.Release|x64.ActiveCfg = Release|x64
+		{07E4616A-1363-46AD-8BBA-0DDDE7DF04AA}.Release|x64.Build.0 = Release|x64
+		{07E4616A-1363-46AD-8BBA-0DDDE7DF04AA}.Release|x86.ActiveCfg = Release|Win32
+		{07E4616A-1363-46AD-8BBA-0DDDE7DF04AA}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
